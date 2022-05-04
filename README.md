@@ -1,2 +1,2 @@
-# -Imers-o-Gamedev-JavaScript
+# -Imersao-Gamedev-JavaScript
 Jogo de corrida feito com o P5JS e JavaScript
